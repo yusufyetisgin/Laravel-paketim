@@ -1,2 +1,2 @@
-# Laravel-paketim
+# laravel-paketim
 Laravel paketimin açıklaması
